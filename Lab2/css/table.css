@@ -113,7 +113,6 @@ table {
     padding: 2.7rem 0;
 }
 
-#item_4,
 #item_5 {
   background-color: #fde9d9;
 }
@@ -122,7 +121,6 @@ table {
   vertical-align: top;
 }
 
-#item_4>td>p,
 #item_5>td>p {
   margin: 5rem 0.5rem;
 }
